@@ -1,0 +1,2 @@
+CHATGPT_PROJECT_INSTRUCTIONS.md character count (Python len): 3977
+Target limit: 8000 characters
