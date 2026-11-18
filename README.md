@@ -28,6 +28,7 @@
 ├─ proposal/
 │  ├─ README.md
 │  └─ form-3b-full-proposal.docx
+├─ advisor-reports/  # گزارش‌ها و ارائه‌های استاد راهنما
 ├─ archive/
 │  ├─ works-index.csv
 │  ├─ references-index.csv
