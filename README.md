@@ -25,6 +25,7 @@
 │  ├─ SOURCE-NOTES-PROTOCOL.md
 │  ├─ WRITING-PROTOCOL.md
 │  └─ REPO-WORKFLOW.md
+├─ docs/university/  # شیوه‌نامه رسمی تدوین پایان‌نامه و خلاصه اجرایی
 ├─ proposal/
 │  ├─ README.md
 │  └─ form-3b-full-proposal.docx
@@ -56,6 +57,10 @@
 - تغییرات مهم، تصمیم‌ها و کارهای باز در `PROJECT.md` به‌روز شوند.
 - برای آثار، قواعد `archive/README.md` لازم‌الاجراست.
 - قبل از ادعای Git، وضعیت واقعی شاخه، کامیت و remote بررسی شود.
+
+## شیوه‌نامه دانشگاه تهران
+
+برای هر خروجی مرتبط با نگارش و تدوین پایان‌نامه، [خلاصهٔ اجرایی شیوه‌نامه](docs/university/university-of-tehran-thesis-guide.md) و در صورت نیاز [PDF اصلی، ویرایش آبان ۱۴۰۳](docs/university/university-of-tehran-thesis-guide.pdf) بررسی شود. برای فرم ۳/ب، قالب خود فرم و برای فصل‌بندی پیش‌بینی‌شده، الگوی پایان‌نامه ملاک است.
 
 ## فرم پروپوزال
 

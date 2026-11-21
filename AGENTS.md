@@ -6,7 +6,7 @@
 
 1. `README.md`
 2. `docs/ai-context/PROJECT.md`
-3. سند تخصصی مرتبط در `docs/ai-context/`
+3. سند تخصصی مرتبط در `docs/ai-context/` و برای نگارش، فصل‌بندی و صفحه‌آرایی، [راهنمای دانشگاه تهران](docs/university/university-of-tehran-thesis-guide.md)
 4. برای آرشیو آثار: `archive/README.md` و راهنماهای همان پوشه
 
 قواعد کلیدی:
